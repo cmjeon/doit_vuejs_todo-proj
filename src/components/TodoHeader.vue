@@ -1,7 +1,7 @@
 <template>
   <header>
     <h1>TODO it!</h1>
-    <p>made bt cmj</p>
+    <p>made by cmj</p>
   </header>
 </template>
 
