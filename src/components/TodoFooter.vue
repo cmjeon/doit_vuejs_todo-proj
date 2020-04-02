@@ -1,11 +1,11 @@
 <template>
-    <div>fotter</div>
+  <div>footer</div>
 </template>
 
 <script>
-export default{
+export default {
     
-}
+};
 </script>
 
 <style>

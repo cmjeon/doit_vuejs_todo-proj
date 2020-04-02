@@ -1,11 +1,11 @@
 <template>
-    <div>input</div>
+  <div>input</div>
 </template>
 
 <script>
-export default{
+export default {
     
-}
+};
 </script>
 
 <style>
